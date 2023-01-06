@@ -81,7 +81,7 @@ social:
     link: uploads/ResearchCV_ClaraVetter.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'clara.vetter@med.uni-muenchen.de'
+email: ''
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
