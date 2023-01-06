@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Clara Vetter # Website name
-baseURL: 'https://claravetter.com/' # Website URL
+baseURL: 'https://www.claravetter.com/' # Website URL
 
 ############################
 ## LANGUAGE

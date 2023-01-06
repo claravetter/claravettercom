@@ -139,12 +139,12 @@ sections:
   #   design:
   #     columns: '2'
   #     view: compact
-  # - block: contact
-  #   id: contact
-  #   content:
-  #     title: Contact
-  #     subtitle:
-  #     text: |-
+  - block: contact
+    id: contact
+    content:
+      title: Contact
+      subtitle:
+      text: |-
 
       # Contact (add or remove contact options as necessary)
       email: clara.vetter@med.uni-muenchen.de
