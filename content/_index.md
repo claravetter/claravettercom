@@ -5,7 +5,7 @@ date: 2023-01-06
 type: landing
 
 sections:
-  - block: about.IMG_7757
+  - block: about.avatar
     id: about
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
