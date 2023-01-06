@@ -7,9 +7,9 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Google Scholar
-    url: 'https://scholar.google.com/citations?hl=en&user=wRydfNQAAAAJ'
-    weight: 20
+  # - name: Google Scholar
+  #   url: 'https://scholar.google.com/citations?hl=en&user=wRydfNQAAAAJ'
+  #   weight: 20
   - name: Publications
     url: '#publications'
     weight: 30
