@@ -64,9 +64,9 @@ social:
     #label: Follow me on Twitter
     #display:
     #  header: true
- - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-   icon_pack: fas
-   link: https://scholar.google.com/citations?view_op=list_works&hl=en&user=z4DSV4sAAAAJ&gmla=AJsN-F4hIetrcWc2yCDPnX2Ce8_IbujO6wohNUa5oH7QSBXesT_yVrEEnjQUGSqV_imoX10rP2iqnyW4ETq-O_Eh2DgmeNLeSTVczQJksM4c5Ut55-HKyMDIxc2Pyvo4qD_fenIS38lv
+  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: fas
+    link: https://scholar.google.com/citations?view_op=list_works&hl=en&user=z4DSV4sAAAAJ&gmla=AJsN-F4hIetrcWc2yCDPnX2Ce8_IbujO6wohNUa5oH7QSBXesT_yVrEEnjQUGSqV_imoX10rP2iqnyW4ETq-O_Eh2DgmeNLeSTVczQJksM4c5Ut55-HKyMDIxc2Pyvo4qD_fenIS38lv
   - icon: github
     icon_pack: fab
     link: https://github.com/csvetter
