@@ -10,34 +10,37 @@ role: PhD Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: LMU University
-  url: https://www.cam.ac.uk/
-- name: Department for Precision Psychiatry
-  url: https://www.mrc-cbu.cam.ac.uk/
+#- name: 
+- name: Department for Precision Psychiatry, LMU University (Munich)
+  url: https://www.lmu-klinikum.de/psychiatrie-und-psychotherapie/forschung-research/working-groups/precision-psychiatry/7ef67d79b4ad4804
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a graduate research assistant at the University of Cambridge. Following my graduate education in psychological research with a major in clinical psychology and a minor in methodology and statistics, my primary research interests surround human learning and habitual behaviour. Current projects examine formal computational modelling approaches to social media use, the role of automatic behaviour in social media use, and cognitive correlates of psychopathic personality traits. 
+bio: 
 
 # Interests to show in About widget
 interests:
-- Open, reproducible, and transparent research
-- Social media and habit formation
-- Criminal behavior and psychopathy
-- Associative learning processes
-- Computational psychiatry
+- Fairness in Artificial Intelligence
+- Computational Neuroscience
+- Data synthesis & Data Augmentation
+- Interpretable AI 
+- Schizophrenia & Mood Disorders
+- Peripartum Mental Health
 
 # Education to show in About widget
 education:
   courses:
-  - course: MSc in Psychological Research
+  - course: MSc in Psychology Research
     institution: University of Amsterdam
-    year: 2022
-  - course: Honours BSc in Psychology
-    institution: Radboud University
-    year: 2020
-  - course: Erasmus Semester
-    institution: University of Leeds
+    year: 2021
+  - course: BSc in Psychology
+    institution: University of Freiburg
     year: 2019
+  - course: Exchange 
+    institution: University of Hong Kong
+    year: 2017
+  - course: Minor in Computer Science (30 ECs)
+    institution: University of Freiburg
+    year: 20168
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -49,19 +52,19 @@ social:
   link: '/#contact'
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/lukasgunschera
-- icon: researchgate
-  icon_pack: fab
-  link: https://www.researchgate.net/profile/Lukas_Gunschera
+  link: https://www.linkedin.com/clara-vetter
+# - icon: researchgate
+#   icon_pack: fab
+#   link: https://www.researchgate.net/profile/Lukas_Gunschera
 - icon: github
   icon_pack: fab
-  link: https://github.com/lukasgunschera
-- icon: orcid
-  icon_pack: fab
-  link: https://orcid.org/my-orcid?orcid=0000-0002-8241-0833
+  link: https://github.com/csvetter
+# - icon: orcid
+#   icon_pack: fab
+#   link: https://orcid.org/my-orcid?orcid=0000-0002-8241-0833
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/lukasgunschera
+  link: https://twitter.com/vetterclara
 
 
 # Link to a PDF of your resume/CV.
@@ -69,15 +72,13 @@ social:
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: uploads/resume.pdf
+  link: uploads/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "l.gunschera@outlook.com"
+email: "clara.vetter@med.uni-muenchen.de"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
-I am a graduate research assistant at the University of Cambridge. Following my graduate education in psychological research with a major in clinical psychology and a minor in methodology and statistics, my primary research interests surround human learning and habitual behaviour. Current projects examine formal computational modelling approaches to social media use, the role of automatic behaviour in social media use, and cognitive correlates of psychopathic personality traits. 
 
 {{< icon name="download" pack="fas" >}}Download my {{% staticref "uploads/resume.pdf" %}}resumé{{% /staticref %}}
