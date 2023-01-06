@@ -72,7 +72,7 @@ social:
     link: https://github.com/csvetter
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/clara-vetter
+    link: https://www.linkedin.com/in/clara-vetter/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
