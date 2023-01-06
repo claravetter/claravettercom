@@ -87,4 +87,5 @@ email: 'clara.vetter@med.uni-muenchen.de'
 highlight_name: true
 ---
 
+bio 
 {style="text-align: justify;"}
