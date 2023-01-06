@@ -2,11 +2,6 @@
 # Display name
 title: Clara Sophie Vetter
 
-# Full name (for SEO)
-first_name: Clara 
-last_name: Vetter
-
-
 # Is this the primary user of the site?
 superuser: true
 
@@ -15,77 +10,74 @@ role: PhD Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Department of Precision Psychiatry, LMU Munich
-    url: https://www.lmu-klinikum.de/psychiatrie-und-psychotherapie/forschung-research/working-groups/precision-psychiatry/7ef67d79b4ad4804
+- name: LMU University
+  url: https://www.cam.ac.uk/
+- name: Department for Precision Psychiatry
+  url: https://www.mrc-cbu.cam.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include (brain) network analysis, data synthesis
+bio: I am a graduate research assistant at the University of Cambridge. Following my graduate education in psychological research with a major in clinical psychology and a minor in methodology and statistics, my primary research interests surround human learning and habitual behaviour. Current projects examine formal computational modelling approaches to social media use, the role of automatic behaviour in social media use, and cognitive correlates of psychopathic personality traits. 
 
 # Interests to show in About widget
 interests:
-  - Fairness in Artificial Intelligence
-  - Computational Neuroscience
-  - Data synthesis & Data Augmentation
-  - Interpretable AI 
-  - Schizophrenia & Mood Disorders
-  - Peripartum Mental Health
-
+- Open, reproducible, and transparent research
+- Social media and habit formation
+- Criminal behavior and psychopathy
+- Associative learning processes
+- Computational psychiatry
 
 # Education to show in About widget
 education:
   courses:
-    - course: MSc in Psychology Research
-      institution: University of Amsterdam
-      year: 2021
-    - course: BSc in Psychology
-      institution: University of Freiburg
-      year: 2019
-    - course: Exchange 
-      institution: University of Hong Kong
-      year: 2017
-    - course: Minor in Computer Science (30 ECs)
-      institution: University of Freiburg
-      year: 2016
+  - course: MSc in Psychological Research
+    institution: University of Amsterdam
+    year: 2022
+  - course: Honours BSc in Psychology
+    institution: Radboud University
+    year: 2020
+  - course: Erasmus Semester
+    institution: University of Leeds
+    year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
-    #label: Get in touch
-    #display: 
-    #  header: true
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/vetterclara
-    #label: Follow me on Twitter
-    #display:
-    #  header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.com/citations?view_op=list_works&hl=en&user=z4DSV4sAAAAJ&gmla=AJsN-F4hIetrcWc2yCDPnX2Ce8_IbujO6wohNUa5oH7QSBXesT_yVrEEnjQUGSqV_imoX10rP2iqnyW4ETq-O_Eh2DgmeNLeSTVczQJksM4c5Ut55-HKyMDIxc2Pyvo4qD_fenIS38lv
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/csvetter
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/clara-vetter/
-  # Link to a PDF of your resume/CV.
-  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-  # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/ResearchCV_ClaraVetter.pdf
+- icon: envelope
+  icon_pack: fas
+  link: '/#contact'
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/lukasgunschera
+- icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Lukas_Gunschera
+- icon: github
+  icon_pack: fab
+  link: https://github.com/lukasgunschera
+- icon: orcid
+  icon_pack: fab
+  link: https://orcid.org/my-orcid?orcid=0000-0002-8241-0833
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/lukasgunschera
+
+
+# Link to a PDF of your resume/CV.
+# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
+# and uncomment the lines below.
+- icon: cv
+  icon_pack: ai
+  link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: "l.gunschera@outlook.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-bio 
-{style="text-align: justify;"}
+I am a graduate research assistant at the University of Cambridge. Following my graduate education in psychological research with a major in clinical psychology and a minor in methodology and statistics, my primary research interests surround human learning and habitual behaviour. Current projects examine formal computational modelling approaches to social media use, the role of automatic behaviour in social media use, and cognitive correlates of psychopathic personality traits. 
+
+{{< icon name="download" pack="fas" >}}Download my {{% staticref "uploads/resume.pdf" %}}resumé{{% /staticref %}}
