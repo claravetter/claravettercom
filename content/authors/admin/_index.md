@@ -19,12 +19,9 @@ bio:
 
 # Interests to show in About widget
 interests:
-- Fairness in Artificial Intelligence
-- Computational Neuroscience
-- Data synthesis & Data Augmentation
-- Interpretable AI 
-- Schizophrenia & Mood Disorders
-- Peripartum Mental Health
+- (Brain) network analysis & graph learning
+- Data synthesis 
+- Interpretability & fairness of AI 
 
 # Education to show in About widget
 education:
