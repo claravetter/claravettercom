@@ -11,7 +11,7 @@ role: PhD Candidate
 # Organizations/Affiliations to show in About widget
 organizations:
 #- name: 
-- name: Department for Precision Psychiatry, LMU University (Munich)
+- name: Department for Precision Psychiatry, Hospital of the University of Munich
   url: https://www.lmu-klinikum.de/psychiatrie-und-psychotherapie/forschung-research/working-groups/precision-psychiatry/7ef67d79b4ad4804
 
 # Short bio (displayed in user profile at end of posts)
