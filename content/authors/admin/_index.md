@@ -40,7 +40,7 @@ education:
     year: 2017
   - course: Minor in Computer Science (30 ECs)
     institution: University of Freiburg
-    year: 20168
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons

@@ -20,18 +20,18 @@ date_format: January 2, 2006
 # Accomplishments.
 #   Add/remove as many `item` blocks below as you like.
 #   `title`, `organization`, and `date_start` are the required parameters.
-#   Leave other parameters empty if not required.
-#   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-item:
-# - certificate_url: 
-#   date_end: ""
-#   date_start: "2023-01-06"
-#   description: ""
-#   organization: SPS-NIP
-#   organization_url: https://psynip.nl/
-#   title: Thesis Award
-#   url: ""
+# #   Leave other parameters empty if not required.
+# #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+# item:
+# # - certificate_url: 
+# #   date_end: ""
+# #   date_start: "2023-01-06"
+# #   description: ""
+# #   organization: SPS-NIP
+# #   organization_url: https://psynip.nl/
+# #   title: Thesis Award
+# #   url: ""
 
-design:
-  columns: '2' 
----
+# design:
+#   columns: '2' 
+# ---
