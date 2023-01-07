@@ -39,6 +39,6 @@ date_format: January 2, 2006
 #   title: Data Science
 #   url: https://courses.edx.org/certificates/d9a5ca37104346cb863f5f4a2788fb05
 
-design:
-  columns: '2' 
+# design:
+#   columns: '2' 
 ---
