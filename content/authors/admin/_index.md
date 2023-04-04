@@ -35,7 +35,7 @@ education:
   - course: Exchange 
     institution: University of Hong Kong
     year: 2017
-  - course: Minor in Computer Science
+  - course: Minor in Computer Sciencegit
     institution: University of Freiburg
     year: 2016
 
