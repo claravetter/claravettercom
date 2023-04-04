@@ -35,7 +35,7 @@ education:
   - course: Exchange 
     institution: University of Hong Kong
     year: 2017
-  - course: Minor in Computer Science (30 ECs)
+  - course: Minor in Computer Science
     institution: University of Freiburg
     year: 2016
 
@@ -55,7 +55,7 @@ social:
 #   link: https://www.researchgate.net/profile/Lukas_Gunschera
 - icon: github
   icon_pack: fab
-  link: https://github.com/csvetter
+  link: https://github.com/claravetter
 # - icon: orcid
 #   icon_pack: fab
 #   link: https://orcid.org/my-orcid?orcid=0000-0002-8241-0833
