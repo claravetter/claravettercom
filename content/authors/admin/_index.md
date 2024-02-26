@@ -13,29 +13,33 @@ organizations:
 #- name: 
 - name: Department for Precision Psychiatry, Hospital of the University of Munich
   url: https://www.lmu-klinikum.de/psychiatrie-und-psychotherapie/forschung-research/working-groups/precision-psychiatry/7ef67d79b4ad4804
+- name: Max Planck Institute of Psychiatry, Munich 
+  url: https://www.psych.mpg.de/en
+- name: Munich Center for Machine Learning (MCML)
+  url: http://mcml.ai
+- name: Munich School of Data Science (MUDS)
+  url: https://www.mu-ds.de
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 # Interests to show in About widget
 interests:
-- (Brain) network analysis & graph learning
-- Data synthesis 
-- Interpretability & fairness of AI 
+- Multiview representation learning in Psychiatry 
+- Neuroimaging & genetics
+- Interpretabile AI 
+
 
 # Education to show in About widget
 education:
   courses:
-  - course: MSc in Psychology Research
+  - course: MSc Psychological Methods & Coginitive Neuroscience (Psychology)
     institution: University of Amsterdam
     year: 2021
-  - course: BSc in Psychology
-    institution: University of Freiburg
+  - course: BSc Psychology
+    institution: University of Freiburg & University of Hong Kong
     year: 2019
-  - course: Exchange 
-    institution: University of Hong Kong
-    year: 2017
-  - course: Minor in Computer Sciencegit
+  - course: Minor in Computer Science
     institution: University of Freiburg
     year: 2016
 
